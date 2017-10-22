@@ -1,0 +1,2 @@
+#!/bin/bash
+java -ea -cp ./lib/stdlib.jar:./lib/algs4.jar:./src:./bin KdTreeTests

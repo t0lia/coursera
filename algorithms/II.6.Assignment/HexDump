@@ -1,0 +1,2 @@
+#!/bin/bash
+java -cp ./lib/stdlib.jar:./lib/algs4.jar:./src:./bin HexDump

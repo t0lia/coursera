@@ -1,0 +1,2 @@
+#!/bin/bash
+javac -cp ./lib/stdlib.jar:./lib/algs4.jar:./src -d ./bin src/KdTreeTests.java
